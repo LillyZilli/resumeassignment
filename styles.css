@@ -36,7 +36,8 @@ h2 {
     font-size: 45px;
 }
 h1, h2 {
-    font-family: 'Caveat', cursive;
+    font-family: 'Fredericka the Great', serif;
+  text-shadow: 4px 4px 4px #aaa;
     font-weight: 400;
     margin: 0;
 }
@@ -111,7 +112,7 @@ header {
 /*Education
 ----------------------------*/
 .education {
-    background-image: url(../images/annie-spratt-unsplash.jpg);
+    background-image: url(../images/background1.jpg);
     background-size: cover;
     background-position: top right;
     padding-bottom: 100px;
@@ -124,8 +125,8 @@ header {
 /*Contact Info
 ----------------------------*/
 footer {
-    background:#233D4D;
-    color:  #F8FFF4;
+    background:#e7d2dc;
+    color:  #1f1f1f;
 }
 .contact-list {
     list-style-type: none;
@@ -172,3 +173,4 @@ footer {
     }
 
 }
+
